@@ -1,4 +1,4 @@
-# ASCIS-2023-WarmUp_WritreUp
+# ASCIS-2023-WarmUp_WriteUp
 - Do server đã đóng nên mình không thể lưu flag hoàn chỉnh được mong mn thông cảm.
 - Thêm vào việc không có src làm cho mình khó có thể dựng lại chall
 ## A big Blue Whale 
